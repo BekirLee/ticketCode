@@ -1,0 +1,12 @@
+.service {
+  border: 1px dashed #abd373;
+  padding: 25px 30px;
+  display: flex;
+  /* height: 120px; */
+}
+
+.services {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}

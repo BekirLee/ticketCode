@@ -10,7 +10,7 @@ const Product = ({ product }) => {
   };
 
   return (
-    <div className="product-card">
+    <div className="product-card col-xl-3 col-md-4 col-sm-6">
       <h3>{product.name}</h3>
       <p>{product.description}</p>
       <span>{product.price} USD</span>

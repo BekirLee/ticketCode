@@ -17,3 +17,15 @@
   height: 100%;
   width: 100%;
 }
+
+.heroTitle span {
+  font-size: 46px;
+}
+
+.heroTitle h2 {
+  font-size: 90px;
+}
+
+.heroTitle p {
+  font-size: 22px;
+}
