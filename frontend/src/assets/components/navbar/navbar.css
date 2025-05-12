@@ -1,0 +1,19 @@
+.headerNav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.headerHero ul a {
+  padding: 10px;
+}
+
+.heroBg {
+  background-image: url("https://htmldemo.net/pronia/pronia/assets/images/slider/bg/1-1.jpg");
+  /* display: flex; */
+}
+
+.heroPhoto {
+  height: 100%;
+  width: 100%;
+}
